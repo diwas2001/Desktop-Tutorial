@@ -1,0 +1,14 @@
+D:\project\course name\course name\bin\Debug\netcoreapp3.1\studentcourse.exe
+D:\project\course name\course name\bin\Debug\netcoreapp3.1\studentcourse.deps.json
+D:\project\course name\course name\bin\Debug\netcoreapp3.1\studentcourse.runtimeconfig.json
+D:\project\course name\course name\bin\Debug\netcoreapp3.1\studentcourse.runtimeconfig.dev.json
+D:\project\course name\course name\bin\Debug\netcoreapp3.1\studentcourse.dll
+D:\project\course name\course name\bin\Debug\netcoreapp3.1\studentcourse.pdb
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.csproj.AssemblyReference.cache
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.AssemblyInfoInputs.cache
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.AssemblyInfo.cs
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.csproj.CoreCompileInputs.cache
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.dll
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.pdb
+D:\project\course name\course name\obj\Debug\netcoreapp3.1\studentcourse.genruntimeconfig.cache
